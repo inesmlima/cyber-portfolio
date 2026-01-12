@@ -1,6 +1,4 @@
----
-title: Home
----
+# Home
 
 Cybersecurity analysis projects and blue team documentation.
 
