@@ -1,6 +1,4 @@
----
-title: About
----
+#About
 
 This site documents hands-on cybersecurity analysis and learning projects.
 
